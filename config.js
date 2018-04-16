@@ -4,7 +4,7 @@ var poolHost = "ca.npool.pw";
 
 var blockExplorer = "http://explorer.solace-coin.com/";
 
-var cryptonatorWidget = ["BTC-USD", "XMR-USD"];
+var cryptonatorWidget = ["BTC-USD"];
 
 var easyminerDownload = "https://github.com/zone117x/cryptonote-easy-miner/releases/";
 
