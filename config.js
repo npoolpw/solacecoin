@@ -8,9 +8,9 @@ var cryptonatorWidget = ["BTC-USD"];
 
 var easyminerDownload = "https://github.com/zone117x/cryptonote-easy-miner/releases/";
 
-var blockchainExplorer = "http://explorer.solace-coin.com/?hash={id}#blockchain_block";
+var blockchainExplorer = "http://explorer.solace-coin.com/block/{id}";
 
-var transactionExplorer = "http://explorer.solace-coin.com/?hash={id}#blockchain_transaction";
+var transactionExplorer = "http://explorer.solace-coin.com/tx/{id}";
 
 var themeCss = "themes/default-theme.css";
 
